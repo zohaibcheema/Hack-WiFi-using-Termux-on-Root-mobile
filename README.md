@@ -15,7 +15,7 @@
 pkg update && pkg upgrade -y
 pkg install root-repo -y
 pkg install git tsu python wpa-supplicant pixiewps iw -y
-git clone https://github.com/anbuinfosec/wipwn
+git clone https://github.com/zohaibcheema/wipwn
 cd wipwn
 chmod +x main.py
 ```
