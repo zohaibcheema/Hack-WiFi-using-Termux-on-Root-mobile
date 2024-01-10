@@ -38,6 +38,4 @@ chmod +x main.py
 
 ---
 
-### ❤️ Thanks for stars and forks
-[![Stargazers repo roster for @anbuinfosec/wipwn](https://reporoster.com/stars/dark/anbuinfosec/wipwn)](https://github.com/anbuinfosec/wipwn/stargazers)
-[![Forkers repo roster for @anbuinfosec/wipwn](https://reporoster.com/forks/dark/anbuinfosec/wipwn)](https://github.com/anbuinfosec/wipwn/network/members)
+### ❤️ Thank for the Star
